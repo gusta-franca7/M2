@@ -1,0 +1,25 @@
+body{
+background-color: bisque;    
+}
+h1{
+    color: rgb(14, 14, 80);
+}
+#principal{
+    text-align: center;
+    color: rgb(68, 10, 10);
+}
+h2{
+    color: rgb(4, 4, 139)
+}
+p{
+    text-align: justify;
+}
+.basico{
+    color: rgb(14, 165, 165);
+}
+.intermediario{
+    color: rgb(72, 182, 72);
+}
+.dificil{
+    color: rgb(115, 63, 168);
+}
